@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e34ba3a905f8744d98003eb88ed60f3, type: 3}
   m_Name: spritesheet_chiruno
   m_EditorClassIdentifier: 
-  atlas: {fileID: 2100000, guid: bba8093a0ef9ad94d9e438eab102f3ad, type: 2}
+  atlas: {fileID: 2100000, guid: 0518edb03e0923d4799feb48719bfb25, type: 2}
   _rows:
   - pixelSizeX: 16
     pixelSizeY: 16

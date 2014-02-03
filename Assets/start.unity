@@ -446,7 +446,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: bba8093a0ef9ad94d9e438eab102f3ad, type: 2}
+  - {fileID: 2100000, guid: 0518edb03e0923d4799feb48719bfb25, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -467,7 +467,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   accuratePosition: {x: 0, y: 0, z: 0}
-  spriteSheet: {fileID: 11400000, guid: f3092c8023dfa994ab27f0f2f435aefc, type: 2}
+  spriteSheet: {fileID: 11400000, guid: 2be541dbbba52f14f95bacf728906aa4, type: 2}
   mode: 0
   pivotMode: 0
   animationMode: 0
@@ -482,8 +482,8 @@ MonoBehaviour:
   ZLayer: 0
   pixelSizeX: 16
   pixelSizeY: 16
-  meshIsDirty: 0
-  vertexColorsAreDirty: 0
+  meshIsDirty: 1
+  vertexColorsAreDirty: 1
   tintColor: {r: 1, g: 1, b: 1, a: 1}
   flipHorizontal: 0
   flipVertical: 0
